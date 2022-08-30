@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:hsl(212, 45%, 89%); 
+}
+h2 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  text-align: center;
+}
+p {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  text-align: center;
+}
+.white-box {
+  width: 300px;
+  height: 470px;
+  border-radius: 20px;
+  font-family: 'Outfit';
+  background-color: white;
+  margin: auto;
+  position: relative;
+}
+img {
+  height: 270px;
+  width: 270px;
+  border-radius: 10px;
+  margin: auto;
+  margin: 15px 0px 0px 15px;
+}
